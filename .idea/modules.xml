@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Advanced/Advanced.iml" filepath="$PROJECT_DIR$/Advanced/Advanced.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BigNumber/BigNumber.iml" filepath="$PROJECT_DIR$/BigNumber/BigNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Hackerrank.iml" filepath="$PROJECT_DIR$/.idea/Hackerrank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Introduction/Introduction.iml" filepath="$PROJECT_DIR$/Introduction/Introduction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Exception Handling/Java Exception Handling.iml" filepath="$PROJECT_DIR$/Java Exception Handling/Java Exception Handling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Object Oriented Programming/Object Oriented Programming.iml" filepath="$PROJECT_DIR$/Object Oriented Programming/Object Oriented Programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/String.iml" filepath="$PROJECT_DIR$/String/String.iml" />
+    </modules>
+  </component>
+</project>
